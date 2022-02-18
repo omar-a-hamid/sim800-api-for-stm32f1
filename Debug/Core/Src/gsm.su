@@ -1,0 +1,5 @@
+gsm.c:10:11:gsm_init	16	static
+gsm.c:37:11:send_sms	24	static
+gsm.c:81:7:at_cmd_response	24	static
+gsm.c:99:7:gsm_location	16	static
+gsm.c:149:11:at_command	16	static
